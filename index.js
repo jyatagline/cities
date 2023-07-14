@@ -97,8 +97,8 @@ stateRows.forEach((row, index) => {
 
     const state = `state${index + 1}`;
 
-    selectedState = state;
-    InsertCities(state);
-    pincodeSection.classList.add("hidden");
+    // selectedState = state;
+    // InsertCities(state);
+    // pincodeSection.classList.add("hidden");
   });
 });
