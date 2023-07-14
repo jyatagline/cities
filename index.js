@@ -95,7 +95,7 @@ stateRows.forEach((row, index) => {
   row.addEventListener("click", () => {
     // row.classList.add("selected");
 
-    const state = `state${index + 1}`;
+    // const state = `state${index + 1}`;
 
     // selectedState = state;
     // InsertCities(state);
